@@ -10,7 +10,7 @@ using Vidly.Models;
 
 namespace Vidly.Controllers.Api
 {
-    //test the gitlab
+    
     public class NewRentalsController : ApiController
     {
 
